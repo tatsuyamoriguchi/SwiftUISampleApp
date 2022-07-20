@@ -11,6 +11,7 @@
 		8CA676DF2888BB3000F523E3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CA676DE2888BB3000F523E3 /* ContentView.swift */; };
 		8CA676E12888BB3100F523E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CA676E02888BB3100F523E3 /* Assets.xcassets */; };
 		8CA676E42888BB3100F523E3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CA676E32888BB3100F523E3 /* Preview Assets.xcassets */; };
+		8CA676ED2888BDF200F523E3 /* TextSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CA676EC2888BDF200F523E3 /* TextSample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		8CA676E02888BB3100F523E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8CA676E32888BB3100F523E3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8CA676E52888BB3100F523E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8CA676EC2888BDF200F523E3 /* TextSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				8CA676DC2888BB3000F523E3 /* SwiftUISampleAppApp.swift */,
 				8CA676DE2888BB3000F523E3 /* ContentView.swift */,
+				8CA676EC2888BDF200F523E3 /* TextSample.swift */,
 				8CA676E02888BB3100F523E3 /* Assets.xcassets */,
 				8CA676E52888BB3100F523E3 /* Info.plist */,
 				8CA676E22888BB3100F523E3 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8CA676DF2888BB3000F523E3 /* ContentView.swift in Sources */,
+				8CA676ED2888BDF200F523E3 /* TextSample.swift in Sources */,
 				8CA676DD2888BB3000F523E3 /* SwiftUISampleAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
